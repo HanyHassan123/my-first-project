@@ -16,51 +16,51 @@ Objective:
 
 tools & technologies:
 
-Python (Pandas, Matplotlib, Seaborn)
+1-Python (Pandas, Matplotlib, Seaborn)
 
-SQL (Data extraction and querying)
+2-SQL (Data extraction and querying)
 
-Power BI / Tableau (Interactive dashboards and reports)
+3-Power BI / Tableau (Interactive dashboards and reports)
 
-Excel (Initial exploration and cleaning)
+4-Excel (Initial exploration and cleaning)
 
 Dataset:
 
-Name: Superstore Sales Dataset
+1-Name: Superstore Sales Dataset
 
-Source: Sample dataset provided for data analysis training
+2-Source: Sample dataset provided for data analysis training
 
 Contents:
 
-Orders (Order ID, Product, Category, Sales, Profit, Quantity)
+1-Orders (Order ID, Product, Category, Sales, Profit, Quantity)
 
-Customer info (Customer ID, Segment, Region)
+2-Customer info (Customer ID, Segment, Region)
 
-Shipping details (Ship Date, Ship Mode)
+3-Shipping details (Ship Date, Ship Mode)
 
-Date and Location data
+4-Date and Location data
 
  
 Key Findings:
 
-Technology and Office Supplies categories generate the highest profits.
+1-Technology and Office Supplies categories generate the highest profits.
 
-The Central and West regions perform better than the South.
+2-The Central and West regions perform better than the South.
 
-Some products have high sales but negative profit margins.
+3-Some products have high sales but negative profit margins.
 
-Shipping delays impact customer satisfaction in certain segments.
+4-Shipping delays impact customer satisfaction in certain segments.
 
 
 Deliverables:
 
-Cleaned and transformed dataset
+1-Cleaned and transformed dataset
 
-Visual reports (Power BI / Tableau dashboard)
+2-Visual reports (Power BI / Tableau dashboard)
 
-Python and SQL scripts for data analysis
+3-Python and SQL scripts for data analysis
 
-Summary of business insights and recommendations
+4-Summary of business insights and recommendations
 
 Author:
 
