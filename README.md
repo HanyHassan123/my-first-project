@@ -1,6 +1,7 @@
 # my-first-project
 This project focuses on analyzing sales data from a large retail store (Superstore) to extract insights that support better decision-making and profit growth.
 ![Dashboard](Project%201/2025-04-30.png)
+![Download Dshboard (Power BI)](Project%201/cleand data super store.pbix)
 Objective:
 
 1-Understand sales and profit trends over time
