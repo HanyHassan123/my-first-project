@@ -4,6 +4,8 @@ This project focuses on analyzing sales data from a large retail store (Supersto
 
 [Download Dshboard(Power BI)](Project%201/cleand%20data%20super%20store.pbix)
 
+[Download Excel File](Project%201/super%20store%20edit.xlsx)
+
 Objective:
 
 1-Understand sales and profit trends over time
