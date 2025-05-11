@@ -1,6 +1,6 @@
 # my-first-project
 This project focuses on analyzing sales data from a large retail store (Superstore) to extract insights that support better decision-making and profit growth.
-
+![Dashboard](Project 1/2025-04-30.png)
 Objective:
 
 1-Understand sales and profit trends over time
